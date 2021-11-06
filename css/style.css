@@ -251,7 +251,7 @@ header .navbar a:hover {
 }
   form textarea {
     height: 200px;
-    resize: none;
+
   }
   .contact-button {
     max-width: 100px;
